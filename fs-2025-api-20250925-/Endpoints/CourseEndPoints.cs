@@ -4,7 +4,7 @@
     {
         public static void AddCourseEndPoints(this WebApplication app)
         {
-
+         //   app.MapGet("/courses", ()=> ) 
         }
     }
 }
