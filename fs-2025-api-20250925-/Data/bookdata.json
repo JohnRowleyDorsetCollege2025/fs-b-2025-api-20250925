@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "isbn": "9780061120084",
+    "publication_date": "1960-07-11",
+    "author": "Harper Lee"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "isbn": "9780451524935",
+    "publication_date": "1949-06-08",
+    "author": "George Orwell"
+  },
+  {
+    "id": 3,
+    "title": "Pride and Prejudice",
+    "isbn": "9780141439518",
+    "publication_date": "1813-01-28",
+    "author": "Jane Austen"
+  },
+  {
+    "id": 4,
+    "title": "The Great Gatsby",
+    "isbn": "9780743273565",
+    "publication_date": "1925-04-10",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "id": 5,
+    "title": "Moby-Dick",
+    "isbn": "9781503280786",
+    "publication_date": "1851-10-18",
+    "author": "Herman Melville"
+  },
+  {
+    "id": 6,
+    "title": "The Catcher in the Rye",
+    "isbn": "9780316769488",
+    "publication_date": "1951-07-16",
+    "author": "J.D. Salinger"
+  },
+  {
+    "id": 7,
+    "title": "Brave New World",
+    "isbn": "9780060850524",
+    "publication_date": "1932-01-01",
+    "author": "Aldous Huxley"
+  },
+  {
+    "id": 8,
+    "title": "Crime and Punishment",
+    "isbn": "9780486415871",
+    "publication_date": "1866-01-01",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "id": 9,
+    "title": "The Hobbit",
+    "isbn": "9780547928227",
+    "publication_date": "1937-09-21",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "id": 10,
+    "title": "War and Peace",
+    "isbn": "9780199232765",
+    "publication_date": "1869-01-01",
+    "author": "Leo Tolstoy"
+  }
+]
